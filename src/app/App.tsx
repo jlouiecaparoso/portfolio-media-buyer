@@ -72,8 +72,7 @@ const capabilities = [
 const timeline = [
   { year: "2025", role: "Assistant Marketing Coordinator", org: "LetzMarket", note: "Canada (Remote)" },
   { year: "2024–2025", role: "Social Media Manager", org: "No Boundaries Marketing Group", note: "USA (Remote)" },
-  { year: "2023–2024", role: "Human Resource Staff", org: "Toyota Butuan City", note: "Butuan City, PH" },
-  { year: "2022", role: "BS Information System", org: "Caraga State University", note: "Graduated" },
+  { year: "2026", role: "BS Information System", org: "Caraga State University", note: "Graduated" },
 ];
 
 function NavBar({ active, setActive }: { active: string; setActive: (s: string) => void }) {
